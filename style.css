@@ -35,6 +35,7 @@ header {
   padding-bottom: 35px;
 }
 
+
 footer {
   background-color: #dbdbdb;
   display: flex;
@@ -47,10 +48,24 @@ footer {
   height: 680px;
 }
 
-main {}
+.image-QSN {
+  align-items: center;
+  transform: rotate(-5deg);
+  width: 20%;
+  height: 20%;
 
-nav {
-  color: #dbdbdb;
+}
+
+.main-QSN {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+
+.main-gaspard {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 100px;
 }
 
 p {
@@ -79,7 +94,7 @@ p {
 }
 
 .front-Gaspard {
-  background-image: url(photo/jeevan-jose-zeD4jzEa0Ek-unsplash.jpg;
+  background-image: url(photo/jeevan-jose-zeD4jzEa0Ek-unsplash.jpg;);
  background-repeat:no-repeat;
   background-position: center;
   background-size: 1300px;
@@ -102,6 +117,32 @@ p {
   height: 680px;
 }
 
+.image-gaspard {
+  margin-right: 5%;
+  float: left;
+  width: 30%;
+  height: 50%;
+}
+
+.header-QSN {
+  background-color: #dbdbdb;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  transform: rotate(5deg);
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-bottom: 35px;
+}
+
+.navbar {
+  color: #dbdbdb;
+}
+
+.navbar-rwanda {
+  color:  black;
+}
+
 .politique-rwanda {
   margin-left: 100px;
   margin-right: 100px;
@@ -122,6 +163,10 @@ p {
 .titre {
   transform: rotate(-5deg);
   color: #dbdbdb;
+}
+
+.titre-QSN {
+  transform: rotate(-5deg);
 }
 
 .rwanda {
