@@ -1,0 +1,139 @@
+a {
+  color: #dbdbdb;
+}
+
+body {
+  font-style: normal;
+  font-family: sentinel;
+}
+
+h1 h2 h3 h4 {
+  font-family: cursive;
+  font-style: oblique;
+}
+
+h1 {
+  font-size: 10rem;
+}
+
+h2 {
+  font-size: 5rem;
+}
+
+h3 {
+  font-size: 4rem;
+}
+
+header {
+  /* background-color: #dbdbdb; */
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  transform: rotate(5deg);
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-bottom: 35px;
+}
+
+footer {
+  background-color: #dbdbdb;
+  display: flex;
+  text-align: center;
+  height: 100px;
+  background-image: url(photo/tour-eiffel-paris.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1300px;
+  height: 680px;
+}
+
+main {}
+
+nav {
+  color: #dbdbdb;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+.contact {
+  margin-left: 100px;
+  margin-bottom: 100px;
+}
+
+.front {
+  background-image: url(photo/kigaliCCsunset.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1300px;
+  height: 680px;
+}
+
+.front-contact {
+  background-image: url(photo/chris-karidis-nnzkZNYWHaU-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1300px;
+  height: 680px;
+}
+
+.front-Gaspard {
+  background-image: url(photo/jeevan-jose-zeD4jzEa0Ek-unsplash.jpg;
+ background-repeat:no-repeat;
+  background-position: center;
+  background-size: 1300px;
+  height: 680px;
+}
+
+.front-QuiSommesNous {
+  background-image: url(photo/kigaliCCsunset.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1300px;
+  height: 680px;
+}
+
+.front-rwanda {
+  background-image: url(photo/rwandaroad.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1300px;
+  height: 680px;
+}
+
+.politique-rwanda {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.presentation {
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 100px
+}
+
+.presentation-rwanda {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.titre {
+  transform: rotate(-5deg);
+  color: #dbdbdb;
+}
+
+.rwanda {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 100px
+}
+
+.rwanda-title {
+  text-align: center;
+}
+
+.title-rwanda {
+  font-size: 10rem;
+}
