@@ -48,6 +48,14 @@ footer {
   height: 680px;
 }
 
+.body-contact {
+  background-image: url("photo/chris-karidis-nnzkZNYWHaU-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+
+}
+
 .image-QSN {
   align-items: center;
   transform: rotate(-5deg);
@@ -75,6 +83,8 @@ p {
 .contact {
   margin-left: 100px;
   margin-bottom: 100px;
+  height: 100%;
+  width: 100%;
 }
 
 .front {
@@ -84,14 +94,10 @@ p {
   background-size: 1300px;
   height: 680px;
 }
-
+/* 
 .front-contact {
-  background-image: url(photo/chris-karidis-nnzkZNYWHaU-unsplash.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 1300px;
-  height: 680px;
-}
+
+} */
 
 .front-Gaspard {
   background-image: url(photo/jeevan-jose-zeD4jzEa0Ek-unsplash.jpg;);
